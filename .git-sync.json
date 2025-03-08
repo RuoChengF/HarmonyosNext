@@ -1,0 +1,16 @@
+{
+    "remotes": [
+        {
+            "name": "gitee",
+            "url": "git@gitee.com:ruochengflag/harmonyos-next.git"
+        },
+        {
+            "name": "github",
+            "url": "git@github.com:RuoChengF/HarmonyosNext.git"
+        },
+        {
+            "name": "gitcode",
+            "url": "git@gitcode.com:qq_33681891/HarmonyosNext.git"
+        }
+    ]
+}
