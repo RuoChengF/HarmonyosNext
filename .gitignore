@@ -1,1 +1,9 @@
 unpublished/*
+node_modules/*
+.idea/*
+.vscode/*
+.DS_Store
+.gitignore
+.gitattributes
+.gitmodules
+.gitkeep
