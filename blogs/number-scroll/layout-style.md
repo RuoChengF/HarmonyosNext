@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/bccb2aa0-94f1-408f-b555-bb6c00d12400.png)
+![](../images/img_4a902b80.png)
 
 # HarmonyOS  NEXT 数字滚动动画详解(三)：布局与样式实现
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/3c439d97-e02c-4488-be35-fd0735537c95.gif)
+![](../images/img_675b6b41.png)
 ## 1. 布局结构概述
 
 数字滚动组件使用嵌套的Row和Column布局来实现数字的排列和滚动效果。主要包含：

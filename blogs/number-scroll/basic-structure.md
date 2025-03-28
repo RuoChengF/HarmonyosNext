@@ -1,12 +1,12 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/2f8d522f-949e-42c9-9936-10921b18abfa.png)
+![](../images/img_f630a2a4.png)
 
 # HarmonyOS NEXT 数字滚动动画详解(一)：基础结构与原理
 
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/3c439d97-e02c-4488-be35-fd0735537c95.gif)
+![](../images/img_675b6b41.png)
 
 
 ## 1. 组件概述

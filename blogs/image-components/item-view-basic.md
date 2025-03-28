@@ -1,7 +1,7 @@
   
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
  
-![](https://files.mdnice.com/user/47561/cc9dee38-eaa3-4754-b2c8-779e059bb3e6.png)
+![](../images/img_0df4ad0f.png)
 
 # HarmonyOS NEXT ImageItemView组件深度剖析：组件基础结构与核心状态管理(一)
 

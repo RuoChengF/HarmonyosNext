@@ -1,7 +1,7 @@
   
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/d52fe67d-3e07-4ee6-be60-4e4c0c742b73.png)
+![](../images/img_c574b60f.png)
 
  # HarmonyOS NEXT ImageViewerView 组件深度剖析： Swiper容器与懒加载深度解析
 

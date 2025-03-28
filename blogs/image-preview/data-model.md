@@ -1,12 +1,12 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/13db789b-8cfc-438d-97c9-b8fbd272ec07.png)
+![](../images/img_79e71ef8.png)
 
 # Harmonyos NEXT 图片预览组件之数据模型设计与实现
 ## 效果预览
 
-![](https://files.mdnice.com/user/47561/d8d2c370-46fe-4ef5-a985-5961f413f927.jpg)
+![](../images/img_bd971de3.png)
 ## 一、数据模型概述
 
 图片预览组件采用了模型驱动的设计思想，将不同的交互状态抽象为独立的数据模型，实现了状态管理的解耦和代码的高内聚。本文将详细介绍图片预览组件中的四个核心数据模型：ScaleModel、RotateModel、OffsetModel和CommonLazyDataSourceModel。

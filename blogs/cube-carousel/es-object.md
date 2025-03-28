@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/e7d421af-812b-4237-8612-1c41dce7a573.png)
+![](../images/img_878b1e4e.png)
 
 # HarmonyOS NEXT系列教程之3D立方体旋转轮播案例讲解之ESObject类型系统
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/1206c9f5-ffbc-407e-be02-ed1889ad8419.gif)
+![](../images/img_bd851d39.png)
 
 ## 1. ESObject类型介绍
 

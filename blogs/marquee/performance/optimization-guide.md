@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/74226047-3ca0-4005-8783-e7b6075be405.png)
+![](../images/img_21277ff6.png)
 
 # HarmonyOS NEXT 跑马灯组件详解(七)：性能优化指南
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/515b84cc-bcf8-48d2-97d2-06bc62b51180.jpg)
+![](../images/img_97896a98.png)
 ## 1. 性能优化概述
 
 MarqueeSection组件的性能优化主要从以下几个方面考虑：

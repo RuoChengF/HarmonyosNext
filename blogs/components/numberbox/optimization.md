@@ -1,6 +1,6 @@
 # HarmonyOS NEXT NumberBox 步进器高级技巧与性能优化
 
-![](https://files.mdnice.com/user/47561/d84255a2-5e78-4bcf-b4c7-55eaca574a57.png)
+![](../images/img_71481e55.png)
 
 ## 一、高级交互设计
 

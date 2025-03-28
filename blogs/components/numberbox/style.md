@@ -1,6 +1,6 @@
 # Harmonyos Next仿uv-ui 组件 NumberBox 步进器组件样式定制
 
-![](https://files.mdnice.com/user/47561/52130cce-5322-4006-b039-7c47b11a0aaf.png)
+![](../images/img_42b6e52d.png)
 
 ## 1. 组件介绍
 
@@ -9,7 +9,7 @@ NumberBox步进器组件提供了丰富的样式定制选项，允许开发者�
 ## 2. 效果展示
 
 
-![](https://files.mdnice.com/user/47561/134d060b-696b-4de9-a054-300b53d79004.jpg)
+![](../images/img_eb604735.png)
 
 
 ## 3. 样式定制选项

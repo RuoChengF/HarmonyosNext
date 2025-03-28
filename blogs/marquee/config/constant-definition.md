@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/8c3163c2-a73c-46ae-8669-6344e3c4bf8d.png)
+![](../images/img_15681c89.png)
 
 # HarmonyOS NEXT跑马灯组件教程：常量定义与配置选项详解
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/515b84cc-bcf8-48d2-97d2-06bc62b51180.jpg)
+![](../images/img_97896a98.png)
 ## 1. 常量定义概述
 
 在HarmonyOS NEXT跑马灯组件的实现中，常量定义扮演着重要的角色，它们为组件提供了默认配置值和固定参数，确保组件在没有自定义配置的情况下也能正常工作。本文将详细介绍跑马灯组件中的常量定义和配置选项，帮助开发者更好地理解和使用这些配置。

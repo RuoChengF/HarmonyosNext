@@ -4,7 +4,7 @@
 
 ## 效果预览
 
-![](https://files.mdnice.com/user/47561/2f1ef0ab-9b7b-4ef9-97e7-7e631fa96084.gif)
+![](../images/img_5e4fdd58.png)
 ## 1. 错误处理架构
 
 ### 1.1 错误类型定义

@@ -1,13 +1,13 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
 
-![](https://files.mdnice.com/user/47561/5ef92be7-329c-426f-8d89-68993bfc8207.png)
+![](../images/img_b73b4fd9.png)
 
 
 # HarmonyOS NEXT系列教程之3D立方体旋转轮播案例讲解之UI构建与样式
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/1206c9f5-ffbc-407e-be02-ed1889ad8419.gif)
+![](../images/img_bd851d39.png)
 
 ## 1. UI结构设计
 

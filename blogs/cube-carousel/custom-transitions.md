@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/e6a126e9-4aa0-48eb-83c8-b3a2bce7c375.png)
+![](../images/img_1fd7494a.png)
 
 # HarmonyOS NEXT系列教程之3D立方体旋转轮播案例讲解之自定义过渡效果
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/1206c9f5-ffbc-407e-be02-ed1889ad8419.gif)
+![](../images/img_bd851d39.png)
 
 ## 1. 自定义过渡效果概述
 

@@ -2,7 +2,7 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
 
-![](https://files.mdnice.com/user/47561/5a8dad5f-2de6-40d3-aa46-c4d74388651f.png)
+![](../images/img_044c68c3.png)
 
 # HarmonyOS NEXT PicturePreviewImage组件深度剖析：手势交互与动画系统深度解析 (二) 
  

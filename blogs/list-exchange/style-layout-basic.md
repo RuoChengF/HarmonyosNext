@@ -1,10 +1,10 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/e7866215-2919-4450-90eb-21112b7974a1.png)
+![](../images/img_ebd152fa.png)
 # HarmonyOS NEXT系列教程之列表交换组件样式与布局实现
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/82592202-671d-445a-8eee-e36ca4d748dc.gif)
+![](../images/img_f8c8cab3.png)
 ## 1. 布局系统设计
 
 ### 1.1 整体布局结构

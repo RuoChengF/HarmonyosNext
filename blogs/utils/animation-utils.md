@@ -1,7 +1,7 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/c0055229-79dc-4760-b562-eeec8d6f4219.png)
+![](../images/img_477109c0.png)
 
 # HarmonyOS NEXT动画系统实现教程：深入理解FuncUtils
 

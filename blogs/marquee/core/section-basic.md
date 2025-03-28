@@ -1,7 +1,7 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
 
-![](https://files.mdnice.com/user/47561/bb8c0fa6-50b1-42b6-8383-6df862e262ce.png)
+![](../images/img_9ce8152e.png)
 
 # HarmonyOS NEXT跑马灯组件教程：MarqueeSection组件实现原理
 

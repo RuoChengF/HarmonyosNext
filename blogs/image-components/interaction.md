@@ -1,7 +1,7 @@
   
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
  
-![](https://files.mdnice.com/user/47561/cb6ef9d1-0ae5-4368-9fa5-41e3ccc87dcf.png)
+![](../images/img_dc3cd023.png)
 
 # HarmonyOS NEXT ImageItemView组件深度剖析：手势交互与动画实现(二)
 

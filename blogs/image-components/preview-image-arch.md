@@ -2,7 +2,7 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
 
-![](https://files.mdnice.com/user/47561/d1ed0bbc-1cc0-4313-b45d-9cc80efcc66a.png)
+![](../images/img_ac8109b3.png)
 
 # HarmonyOS NEXT PicturePreviewImage组件深度剖析：从架构设计到核心代码实现 (一) 
  

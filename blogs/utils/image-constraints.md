@@ -1,7 +1,7 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/c47eb3b3-bc78-4b87-864f-c9a1db1f59e3.png)
+![](../images/img_974bc730.png)
 
 # HarmonyOS NEXT 图片约束处理教程：深入理解Constrain
 

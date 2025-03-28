@@ -1,13 +1,13 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
  
  
-![](https://files.mdnice.com/user/47561/28abe107-b634-4c39-b822-566a413f4701.png)
+![](../images/img_85b3c4b3.png)
 #  【HarmonyOS NEXT】 仿uv-ui组件开发之Avatar组件进阶指南(四)
 ## 补充内容
 
 由于本人疏忽本教程的第一节忘记上传运行效果图拉， 因此在本章节进行补充， 哈哈哈！
 
-![](https://files.mdnice.com/user/47561/fbdd9262-8df8-4be4-9923-23bc3b07e094.png)
+![](../images/img_b4495507.png)
 
 
 ## 第四篇：打造高性能Avatar组件的终极优化秘籍

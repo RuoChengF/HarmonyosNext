@@ -1,7 +1,7 @@
  > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
  
  
-![](https://files.mdnice.com/user/47561/4a74e9fc-557b-48ef-a567-8979143a06cd.png)
+![](../images/img_d6132ec7.png)
 
 #  HarmonyOS NEXT 仿uv-ui Tag组件开发教程系列(三)
  
@@ -12,7 +12,7 @@
 #### 1.1 标签筛选系统
 
 
-![](https://files.mdnice.com/user/47561/f84b390c-a1e3-430d-bb4a-339a02e304bc.jpg)
+![](../images/img_5654ccb6.png)
 
 
 ```typescript

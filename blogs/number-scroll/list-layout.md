@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/1cf244c0-ce9c-4de6-ae3d-f8cd30ff0b2d.png)
+![](../images/img_36aeb2f0.png)
 
 # HarmonyOS  NEXT 数字滚动示例详解(三)：列表实现与布局
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/3c439d97-e02c-4488-be35-fd0735537c95.gif)
+![](../images/img_675b6b41.png)
 ## 1. 列表结构概述
 
 列表组件使用List和ListItem实现，包含标题和数字显示两个主要部分。

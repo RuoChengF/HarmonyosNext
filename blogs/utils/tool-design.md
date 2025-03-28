@@ -1,7 +1,7 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/5d0746f9-f5aa-4cf2-9d5f-204947b67238.png)
+![](../images/img_2b38f1df.png)
 
 # HarmonyOS NEXT工具类设计模式教程：最佳实践与实现
 

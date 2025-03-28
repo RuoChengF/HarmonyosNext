@@ -2,14 +2,14 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
 
-![](https://files.mdnice.com/user/47561/85d52b01-fc90-4e27-8afa-17d31de29467.png)
+![](../images/img_c54c7d7b.png)
 
 # HarmonyOS NEXT Layout布局组件系统详解（七）：响应式设计实现
 
 
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/30e8b194-59bf-4a70-9cac-2357c78b8007.jpg)
+![](../images/img_f9c961ee.png)
 
 
 ## 1. 响应式设计概述

@@ -1,7 +1,7 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
 
-![](https://files.mdnice.com/user/47561/45adc2b4-868b-40e2-9ac9-d782d1517661.png)
+![](../images/img_b41e14c1.png)
 
 
  #  HarmonyOS NEXT 仿uv-ui Tag组件开发教程系列(二)
@@ -12,7 +12,7 @@
 
 #### 1.1 组件状态概览
 
-![](https://files.mdnice.com/user/47561/bafccfa8-9fcd-444e-84f2-c1404a2355dd.png)
+![](../images/img_b02d702a.png)
 
 #### 1.2 内部状态管理
 
@@ -44,7 +44,7 @@ export struct Tag {
 
 #### 2.1 事件类型
 
-![](https://files.mdnice.com/user/47561/63926720-58d4-480a-9874-2b3cf099f3b8.jpg)
+![](../images/img_1a9f5f8f.png)
 
 #### 2.2 事件处理示例
 

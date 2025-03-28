@@ -1,12 +1,12 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/e7866215-2919-4450-90eb-21112b7974a1.png)
+![](../images/img_ebd152fa.png)
 # HarmonyOS NEXT系列教程之 自定义TabBar组件系列总结与最佳实践
 
 本文将对整个自定义TabBar组件系列进行总结，并提供最佳实践指南，帮助开发者更好地理解和使用这些组件。
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/c2894823-0343-4de9-a551-e971b3e8daff.gif)
+![](../images/img_e3a9fa89.png)
 ## 1. 组件体系概述
 
 ### 核心组件：

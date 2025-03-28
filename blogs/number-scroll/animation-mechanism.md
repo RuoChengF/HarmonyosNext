@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/b12f1ff3-2264-4bc4-9b9c-8400ab272b20.png)
+![](../images/img_8eb9fa17.png)
 
 # HarmonyOS  NEXT 数字滚动动画详解(二)：动画实现机制
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/3c439d97-e02c-4488-be35-fd0735537c95.gif)
+![](../images/img_675b6b41.png)
 ## 1. 动画实现概述
 
 数字滚动动画通过控制每个数字的Y轴偏移量来实现滚动效果，使用animateTo方法来创建平滑的过渡动画。

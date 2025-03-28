@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/765d1c73-a0ba-4230-8cc0-513bc0590378.png)
+![](../images/img_dd6b4846.png)
 
 # HarmonyOS NEXT 日志工具类详解(一)：Logger类基础结构
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/515b84cc-bcf8-48d2-97d2-06bc62b51180.jpg)
+![](../images/img_97896a98.png)
 ## 1. Logger类概述
 
 Logger类是一个用于打印日志的工具类，它封装了HarmonyOS的hilog模块，提供了更便捷的日志打印方法。

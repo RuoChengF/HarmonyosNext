@@ -1,7 +1,7 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
 
-![](https://files.mdnice.com/user/47561/f7435a77-b744-49d4-930d-2ee155a1558a.png)
+![](../images/img_8abbe432.png)
 
  #  HarmonyOS NEXT 仿uv-ui Tag组件开发教程系列(一)
 
@@ -11,11 +11,11 @@
 
 > Tag组件：轻量级标签展示，用于标记与分类。本教程将指导您如何在HarmonyOS NEXT中实现仿UV-UI的Tag组件。
  
-![](https://files.mdnice.com/user/47561/3047f16a-7d40-444d-802a-b199d8ae3986.png)
+![](../images/img_cd3e4ec0.png)
 
 #### 1.1 最终效果演示 
 
-![](https://files.mdnice.com/user/47561/6cf9b802-f362-4dd3-9f78-84e463e60190.png)
+![](../images/img_20d5d782.png)
 
 
 ### 2. 基本属性

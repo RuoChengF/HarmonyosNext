@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/b860ee44-7b14-4101-bfc7-2d6f5dc66955.png)
+![](../images/img_c2220a6a.png)
 
 # HarmonyOS NEXT 跑马灯组件数据源详解：数据管理与监听机制
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/515b84cc-bcf8-48d2-97d2-06bc62b51180.jpg)
+![](../images/img_97896a98.png)
 ## 1. 数据源概述
 
 数据源是跑马灯组件的数据管理核心，包含两个主要类：

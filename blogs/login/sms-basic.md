@@ -2,14 +2,14 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
 
-![](https://files.mdnice.com/user/47561/41bd1890-42d3-4708-87e1-c9a907532042.png)
+![](../images/img_366e5d83.png)
 
 # HarmonyOS NEXT 登录模块开发教程（三）上：短信验证码登录基础实现
 
 ## 效果预览
 
 
-![](https://files.mdnice.com/user/47561/d9af2abd-eefd-406a-a41e-7fa3942195d7.jpg)
+![](../images/img_faf286a3.png)
 
 ## 1. 引言
 

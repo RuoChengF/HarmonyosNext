@@ -1,11 +1,11 @@
 
 
-![](https://files.mdnice.com/user/47561/f226ca94-c6fd-4d62-91f5-2ce4f1d76ecd.png)
+![](../images/img_ea3654dd.png)
 
 #  HarmonyOS应用开发实践与技术解析
  
 
-![](https://files.mdnice.com/user/47561/f226ca94-c6fd-4d62-91f5-2ce4f1d76ecd.png)
+![](../images/img_ea3654dd.png)
 
 @[toc]
 

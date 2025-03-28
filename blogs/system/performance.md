@@ -1,7 +1,7 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/3c2115fd-1fc7-41ad-8194-5ebebb1bb21b.png)
+![](../images/img_5353b9ee.png)
 
 # HarmonyOS NEXT 性能优化指南：从理论到实践
 

@@ -1,4 +1,4 @@
-![](https://files.mdnice.com/user/47561/9de3dacb-9792-45b8-8ab9-c2f88d6bc4ab.png)
+![](../images/img_cb1ff158.png)
 
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 

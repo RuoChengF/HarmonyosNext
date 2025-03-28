@@ -1,7 +1,7 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/f2775a85-e048-45cf-9864-fb0512b66b7d.png)
+![](../images/img_3c0c2eca.png)
 
 # HarmonyOS NEXT 手势操作模型详解：移动、缩放与旋转的实现原理
 

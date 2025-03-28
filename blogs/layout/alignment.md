@@ -4,11 +4,11 @@
 
 # HarmonyOS NEXT Layout布局组件系统详解（五）：对齐方式设置
 
-![](https://files.mdnice.com/user/47561/d7577c9c-ce11-4fb5-98b9-75e46aac44ab.png)
+![](../images/img_9408cbe0.png)
 
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/30e8b194-59bf-4a70-9cac-2357c78b8007.jpg)
+![](../images/img_f9c961ee.png)
 
 ## 1. 对齐方式概述
 

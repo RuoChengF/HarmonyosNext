@@ -1,6 +1,6 @@
 # Harmonyos Next仿uv-ui 组件NumberBox 步进器组件自定义图标
 
-![](https://files.mdnice.com/user/47561/c10053d3-2c22-48b2-ac24-b9512c4ea5bf.png)
+![](../images/img_a84fd0e8.png)
 
 ## 1. 组件介绍
 
@@ -9,7 +9,7 @@ NumberBox步进器组件支持自定义加减按钮的图标，使开发者能�
 ## 2. 效果展示
 
 
-![](https://files.mdnice.com/user/47561/d40acb09-a233-43dc-bbfd-949e31a09f47.jpg)
+![](../images/img_94e7a5a1.png)
 
 
 ## 3. 自定义图标设置

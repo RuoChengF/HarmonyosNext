@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/b0d3e857-239a-48a7-8a83-54d525ef9cc9.png)
+![](../images/img_9c5938f3.png)
 
 # HarmonyOS NEXT 跑马灯组件常量解析：让配置更清晰
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/515b84cc-bcf8-48d2-97d2-06bc62b51180.jpg)
+![](../images/img_97896a98.png)
 ## 1. 什么是Constants类？
 
 Constants类是一个配置类，用于集中管理跑马灯组件中使用的所有常量值。使用常量类的好处是：

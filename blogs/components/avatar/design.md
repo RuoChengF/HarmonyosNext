@@ -1,7 +1,7 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
 
-![](https://files.mdnice.com/user/47561/f00625a8-004e-48b6-be9b-5dd30c6f515d.png)
+![](../images/img_e96b2877.png)
 
 #  【HarmonyOS NEXT】 仿uv-ui组件开发之Avatar组件设计精髓(三)
 ## 第三篇：掌握Avatar组件的样式魔法与灵活定制

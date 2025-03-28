@@ -1,13 +1,13 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/af11f342-5073-4b3d-a923-cbfdf4737b3d.png)
+![](../images/img_5f4d71c6.png)
 
 #   Harmonyos NEXT  图片预览组件之PicturePreviewImage实现原理
 
 ## 效果预览
 
-![](https://files.mdnice.com/user/47561/e4fc23ba-5598-466e-98a8-56fc5f9cedce.jpg)
+![](../images/img_0cb0cbb1.png)
 
 ## 一、组件概述
 

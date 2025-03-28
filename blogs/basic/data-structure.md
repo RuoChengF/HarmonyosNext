@@ -1,6 +1,6 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/6541d1cf-a8bb-41e0-9a0f-49f55a7e2b69.png)
+![](../images/img_d44a26d9.png)
 
  #  高效HarmonyOS NEXT编程：ArkTS数据结构优化与属性访问最佳实践
 
@@ -146,7 +146,7 @@ class CalendarEventManager {
 
 #### 效果图
 
-![](https://files.mdnice.com/user/47561/b0a2416a-bb55-4391-80b4-cf94fbab231a.png)
+![](../images/img_ec2b58d5.png)
 
 > 注意该代码还有未实现的功能， 目前只作为演示使用
 

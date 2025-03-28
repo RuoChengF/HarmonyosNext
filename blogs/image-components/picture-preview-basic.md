@@ -4,7 +4,7 @@
 # HarmonyOS NEXT PicturePreview组件深度剖析：从架构设计到核心代码实现
 
 
-![](https://files.mdnice.com/user/47561/1e7a83e5-b429-4d40-a8eb-f38fdc536b33.png)
+![](../images/img_c5fe4197.png)
 
 
 ### 一、组件整体架构

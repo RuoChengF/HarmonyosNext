@@ -1,7 +1,7 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/b123610d-8d49-4306-91b3-1692f704c3ab.png)
+![](../images/img_d4d43f0d.png)
 
 # HarmonyOS NEXT应用发布与版本管理指南：规范化发布流程
 

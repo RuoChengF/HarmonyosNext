@@ -1,7 +1,7 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
  
-![](https://files.mdnice.com/user/47561/33588fec-5c71-4b48-9f80-6d2dda649fab.png)
+![](../images/img_7967d1e0.png)
 # 【HarmonyOS NEXT】 仿uv-ui组件开发之Avatar组件深度剖析（二）
 
 ## 第二篇：探秘Avatar组件的核心实现机制
@@ -9,7 +9,7 @@
 ### 1. 组件结构设计
 
  
-![](https://files.mdnice.com/user/47561/eb7df82a-9b27-4694-8a65-6464f0645f81.png)
+![](../images/img_78f9597b.png)
 
 
 ### 2. 状态管理

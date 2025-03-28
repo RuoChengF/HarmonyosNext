@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/342a93b0-2138-41bc-ab49-46851a3b8460.png)
+![](../images/img_a3bb246b.png)
 
 # HarmonyOS NEXT系列教程之3D立方体旋转轮播案例讲解之实战应用场景
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/1206c9f5-ffbc-407e-be02-ed1889ad8419.gif)
+![](../images/img_bd851d39.png)
 
 ## 1. 电商首页展示
 

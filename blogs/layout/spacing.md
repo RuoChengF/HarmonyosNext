@@ -1,6 +1,6 @@
 # HarmonyOS NEXT Layout 布局组件系统详解（四）：间距处理机制
 
-![](https://files.mdnice.com/user/47561/d5147e0a-795e-4416-bc3a-31c39de47fcf.png)
+![](../images/img_ed9a4334.png)
 
 ## 1. 间距处理概述
 

@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/b3af4f4e-d4c6-49ff-9e16-82d8af7e34c9.png)
+![](../images/img_0d4a6d98.png)
 
 # HarmonyOS NEXT 跑马灯组件详解(三)：MarqueeSection基础结构
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/515b84cc-bcf8-48d2-97d2-06bc62b51180.jpg)
+![](../images/img_97896a98.png)
 ## 1. 组件概述
 
 MarqueeSection是一个实现文本滚动效果的自定义组件，主要用于显示超出显示区域的文本内容。

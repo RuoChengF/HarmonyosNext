@@ -1,6 +1,6 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/0dbfa651-8a8d-4edd-9058-59933abeb107.png)
+![](../images/img_d8e57482.png)
 
 # HarmonyOS NEXT跑马灯组件教程：动画配置与参数详解
 

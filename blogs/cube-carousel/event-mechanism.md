@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/06cf418c-37a4-4a13-a284-183e90fb0c0b.png)
+![](../images/img_23df78f3.png)
 
 # HarmonyOS NEXT系列教程之3D立方体旋转轮播案例讲解之事件处理机制
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/1206c9f5-ffbc-407e-be02-ed1889ad8419.gif)
+![](../images/img_bd851d39.png)
 
 ## 1. 事件系统概述
 

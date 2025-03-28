@@ -1,12 +1,12 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/3af30c85-67ec-43d7-9c60-063fbe274bff.png)
+![](../images/img_d2bc7c53.png)
 
 # HarmonyOS NEXT 登录模块开发教程（八）：测试与调试技巧
 
 ## 效果预览
 
-![](https://files.mdnice.com/user/47561/d9af2abd-eefd-406a-a41e-7fa3942195d7.jpg)
+![](../images/img_faf286a3.png)
 
 ## 1. 引言
 

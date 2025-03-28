@@ -1,7 +1,7 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/823ab925-eb8e-4d95-8861-1b39fbf9c617.png)
+![](../images/img_825c6eed.png)
 
 # HarmonyOS NEXT 手势操作实战指南：从理论到实践
  

@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/6d6297f7-2f56-40c1-ba9a-990aa5110de3.png)
+![](../images/img_70207c65.png)
 
 # HarmonyOS  NEXT 数字滚动动画详解(四)：性能优化指南
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/3c439d97-e02c-4488-be35-fd0735537c95.gif)
+![](../images/img_675b6b41.png)
 ## 1. 性能优化概述
 
 数字滚动组件的性能优化主要从以下几个方面考虑：

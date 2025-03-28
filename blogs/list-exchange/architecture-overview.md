@@ -1,12 +1,12 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/eb019495-8b21-466f-ac4f-3b5020acd3e3.png)
+![](../images/img_da7017a3.png)
 
 # HarmonyOS NEXT系列教程之列表交换组件架构设计
 
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/82592202-671d-445a-8eee-e36ca4d748dc.gif)
+![](../images/img_f8c8cab3.png)
 
 ## 1. 组件概述
 

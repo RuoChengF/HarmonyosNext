@@ -1,13 +1,13 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/0b2fab37-c1b1-40fb-9e2f-4a53ed018596.png)
+![](../images/img_82dabc24.png)
 
 
 # HarmonyOS NEXT Layout 布局组件系统详解（八）：自定义样式与类
 
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/30e8b194-59bf-4a70-9cac-2357c78b8007.jpg)
+![](../images/img_f9c961ee.png)
 
 ## 1. 自定义样式概述
 

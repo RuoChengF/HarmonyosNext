@@ -1,7 +1,7 @@
    
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/adecf3c8-e7e9-4dc4-85b0-b8e375499937.png)
+![](../images/img_3bb6eb26.png)
 
   
 # HarmonyOS NEXT ImageItemView组件深度剖析：边界处理与高级特性(二)

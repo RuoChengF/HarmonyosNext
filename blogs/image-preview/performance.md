@@ -1,13 +1,13 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/6a9b59ab-2d45-409f-a9f3-6edbd440d631.png)
+![](../images/img_ff5f46aa.png)
 
 
 # Harmonyos NEXT 图片预览组件之性能优化策略
 ## 效果预览
 
-![](https://files.mdnice.com/user/47561/d8d2c370-46fe-4ef5-a985-5961f413f927.jpg)
+![](../images/img_bd971de3.png)
 ## 一、性能优化概述
 
 图片预览组件在处理大量高清图片时，性能优化显得尤为重要。本文将详细介绍图片预览组件中采用的性能优化策略，包括懒加载实现、内存管理、渲染优化等方面，帮助开发者构建高性能的图片预览功能。

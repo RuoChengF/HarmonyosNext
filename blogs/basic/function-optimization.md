@@ -1,5 +1,5 @@
 
-![](https://files.mdnice.com/user/47561/68500c4e-9610-42f5-92b7-543d2390fefa.png)
+![](../images/img_d8cda364.png)
 
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
@@ -391,9 +391,9 @@ struct CalculatorFactoryGood {
 ## 性能测试示例
 
 
-![](https://files.mdnice.com/user/47561/f5f9d477-431c-466e-9011-36418ea2c52e.png)
+![](../images/img_1703a0c3.png)
 
-![](https://files.mdnice.com/user/47561/3ef72ce4-a572-46dc-9581-4c6d9bfbe25b.png)
+![](../images/img_562070d8.png)
 
 
 下面是一个简单的性能测试组件，用于比较不同实现方式的性能差异：

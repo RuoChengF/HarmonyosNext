@@ -1,12 +1,12 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/7708a83b-ed38-4e2f-adc4-cfc1b2d191c0.png)
+![](../images/img_65159fa8.png)
 
 # Harmonyos NEXT 图片预览组件之边界处理与图片切换
 
 ## 效果预览
 
-![](https://files.mdnice.com/user/47561/d8d2c370-46fe-4ef5-a985-5961f413f927.jpg)
+![](../images/img_bd971de3.png)
 
 ## 一、边界处理概述
 

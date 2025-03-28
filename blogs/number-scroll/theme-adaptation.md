@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/b1930a60-d029-44cd-be46-b19f6fb52846.png)
+![](../images/img_2cb6f15a.png)
 
 # HarmonyOS  NEXT 数字滚动示例详解(四)：样式与主题适配
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/3c439d97-e02c-4488-be35-fd0735537c95.gif)
+![](../images/img_675b6b41.png)
 ## 1. 样式配置概述
 
 示例组件使用了统一的样式配置和资源引用，确保界面风格的一致性和可维护性。

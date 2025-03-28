@@ -1,6 +1,6 @@
 # HarmonyOS NEXT  Layout布局组件系统详解（二）：AutoRow行组件实现原理
 
-![](https://files.mdnice.com/user/47561/aede9a1d-5515-4eec-ac5c-005ea90231ad.png)
+![](../images/img_1b4f02d0.png)
 
 ## 1. AutoRow组件概述
 

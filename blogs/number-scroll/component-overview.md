@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/c9ce5e71-1831-4d7c-a2ca-44e34526cdea.png)
+![](../images/img_8c2960e4.png)
 
 # HarmonyOS  NEXT 数字滚动示例详解(一)：基础结构与组件概述
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/3c439d97-e02c-4488-be35-fd0735537c95.gif)
+![](../images/img_675b6b41.png)
 ## 1. 组件概述
 
 DigitalScrollExampleComponent是一个展示数字滚动动效的示例组件，主要用于演示如何在实际场景中使用数字滚动效果。

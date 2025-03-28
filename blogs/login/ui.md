@@ -1,12 +1,12 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/4b928bc3-4661-484b-b5c1-f23fc16e2a4e.png)
+![](../images/img_5132fb74.png)
 
 # HarmonyOS NEXT 登录模块开发教程（六）：UI 设计与用户体验优化
 
 ## 效果预览
 
-![](https://files.mdnice.com/user/47561/d9af2abd-eefd-406a-a41e-7fa3942195d7.jpg)
+![](../images/img_faf286a3.png)
 
 ## 1. 引言
 

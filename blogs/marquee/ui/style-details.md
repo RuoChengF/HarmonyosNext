@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/839df474-2970-4ab0-b613-3d808654aaa3.png)
+![](../images/img_18a7fb0d.png)
 
 # HarmonyOS NEXT 跑马灯组件详解(五)：布局与样式实现
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/515b84cc-bcf8-48d2-97d2-06bc62b51180.jpg)
+![](../images/img_97896a98.png)
 ## 1. 布局结构概述
 
 MarqueeSection组件使用嵌套的布局结构来实现滚动效果，主要包含：

@@ -1,12 +1,12 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/c18147ef-6c89-4908-96f9-17b757244d87.png)
+![](../images/img_0c5b1b19.png)
 
 # Harmonyos NEXT 图片预览组件之手势处理实现
 ## 效果预览
 
-![](https://files.mdnice.com/user/47561/d8d2c370-46fe-4ef5-a985-5961f413f927.jpg)
+![](../images/img_bd971de3.png)
 ## 一、手势处理概述
 
 手势处理是图片预览组件的核心交互功能，通过识别和响应用户的各种触摸操作，实现图片的缩放、旋转、拖动和切换等功能。本文将详细介绍PicturePreviewImage组件中的手势处理实现原理。

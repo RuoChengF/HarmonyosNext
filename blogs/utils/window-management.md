@@ -1,7 +1,7 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/24135a73-3d2b-480c-a7ae-587b4a4e1bc9.png)
+![](../images/img_97856e88.png)
 
 # HarmonyOS NEXT窗口管理基础教程：深入理解WindowSizeManager
 

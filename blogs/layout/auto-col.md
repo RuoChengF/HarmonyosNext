@@ -1,6 +1,6 @@
 # HarmonyOS NEXT Layout布局组件系统详解（三）：AutoCol列组件实现原理
 
-![](https://files.mdnice.com/user/47561/cc7d427a-7eee-49b7-b5b2-d6f96251ec58.png)
+![](../images/img_e63870d6.png)
 
 ## 1. AutoCol组件概述
 

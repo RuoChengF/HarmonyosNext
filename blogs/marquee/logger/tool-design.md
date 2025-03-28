@@ -1,13 +1,13 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
 
-![](https://files.mdnice.com/user/47561/43fb25b6-24ac-4afa-939f-920df777c44d.png)
+![](../images/img_a96b3673.png)
 
 # HarmonyOS NEXT跑马灯组件教程：Logger日志工具详解
 
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/515b84cc-bcf8-48d2-97d2-06bc62b51180.jpg)
+![](../images/img_97896a98.png)
 
 ## 1. Logger工具概述
 

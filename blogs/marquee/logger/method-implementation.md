@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/dabb849b-629b-4938-ac07-8e63504a8530.png)
+![](../images/img_9f414327.png)
 
 # HarmonyOS NEXT 日志工具类详解(二)：日志打印方法实现
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/515b84cc-bcf8-48d2-97d2-06bc62b51180.jpg)
+![](../images/img_97896a98.png)
 ## 1. 日志方法概述
 
 Logger类提供了四种级别的日志打印方法：

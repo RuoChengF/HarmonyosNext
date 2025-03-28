@@ -1,13 +1,13 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/e7866215-2919-4450-90eb-21112b7974a1.png)
+![](../images/img_ebd152fa.png)
 
 # HarmonyOS NEXT系列教程之 TabsConcaveCircle组件基础结构与状态管理
 
 TabsConcaveCircle是一个自定义的底部导航栏组件，它具有独特的凹陷圆形设计。本文将详细介绍该组件的基础结构和状态管理部分。
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/c2894823-0343-4de9-a551-e971b3e8daff.gif)
+![](../images/img_e3a9fa89.png)
 ## 1. 组件导入说明
 
 ```typescript

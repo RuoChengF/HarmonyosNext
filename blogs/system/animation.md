@@ -1,7 +1,7 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/d7a57177-3701-490d-b2e5-8398a59dc624.png)
+![](../images/img_be741fc5.png)
 
 # HarmonyOS NEXT 动画系统详解：构建流畅的用户体验
 

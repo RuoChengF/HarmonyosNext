@@ -1,7 +1,7 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/126db997-6496-421f-ae3f-38e29f3b7649.png)
+![](../images/img_35598ea7.png)
 
 # HarmonyOS NEXT 组件通信与状态共享：构建高效的组件协作机制
 

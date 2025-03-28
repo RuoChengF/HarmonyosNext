@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/e7866215-2919-4450-90eb-21112b7974a1.png)
+![](../images/img_ebd152fa.png)
 # HarmonyOS NEXT系列教程之图案锁交互反馈系统详解
 
 ## 效果预览
 
-![](https://files.mdnice.com/user/47561/2f1ef0ab-9b7b-4ef9-97e7-7e631fa96084.gif)
+![](../images/img_5e4fdd58.png)
 ## 1. 交互反馈系统概述
 
 ### 1.1 反馈类型

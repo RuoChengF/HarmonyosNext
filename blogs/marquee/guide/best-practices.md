@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/e892a313-289b-46d3-9695-4c3469ef31d0.png)
+![](../images/img_8cd11ecc.png)
 
 # HarmonyOS NEXT跑马灯组件教程：实际应用场景与最佳实践
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/515b84cc-bcf8-48d2-97d2-06bc62b51180.jpg)
+![](../images/img_97896a98.png)
 ## 1. 跑马灯组件应用场景概述
 
 跑马灯组件是HarmonyOS NEXT中一个非常实用的UI组件，它可以在有限的空间内展示超出显示区域的文本内容。本文将详细介绍跑马灯组件的实际应用场景和最佳实践，帮助开发者更好地理解如何在实际项目中使用跑马灯组件。

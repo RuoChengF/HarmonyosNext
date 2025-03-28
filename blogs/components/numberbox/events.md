@@ -1,6 +1,6 @@
 # Harmonyos Next仿uv-ui 组件NumberBox 步进器组件事件处理
 
-![](https://files.mdnice.com/user/47561/f541f344-0ea9-4bbc-8d0d-7c50cde6de08.png)
+![](../images/img_9b7ea215.png)
 
 ## 1. 组件介绍
 
@@ -8,7 +8,7 @@ NumberBox步进器组件提供了丰富的事件处理功能，包括值变化�
 
 ## 2. 效果展示
 
-![](https://files.mdnice.com/user/47561/5eaaa575-c45a-42b8-be42-6bf6a760c264.jpg)
+![](../images/img_c06d22b5.png)
 
 
 ## 3. 事件处理功能

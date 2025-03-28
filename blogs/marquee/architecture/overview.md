@@ -1,6 +1,6 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/d93f261a-86cc-4416-a309-fa69fedffc39.png)
+![](../images/img_1b34364e.png)
 
 # HarmonyOS NEXT跑马灯组件教程：基础概念与架构设计
 

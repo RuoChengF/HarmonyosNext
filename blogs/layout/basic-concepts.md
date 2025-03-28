@@ -1,6 +1,6 @@
 # HarmonyOS NEXT  Layout布局组件系统详解（一）：基础概念与栅格系统原理
 
-![](https://files.mdnice.com/user/47561/2c3466b5-c5bf-4653-ab75-f1d36bc5a7a8.png)
+![](../images/img_e4f12f7b.png)
 
 ## 1. 引言
 

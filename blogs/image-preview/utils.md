@@ -1,13 +1,13 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/47aef418-0e9e-4542-bcd6-d2b907971bfe.png)
+![](../images/img_8ab299da.png)
 
 
 # Harmonyos NEXT 图片预览组件之工具类实现
 ## 效果预览
 
-![](https://files.mdnice.com/user/47561/d8d2c370-46fe-4ef5-a985-5961f413f927.jpg)
+![](../images/img_bd971de3.png)
 ## 一、工具类概述
 
 图片预览组件中的工具类是支撑组件功能实现的重要基础设施，它们提供了约束计算、动画效果、窗口管理等核心功能。本文将详细介绍图片预览组件中的三个核心工具类：Constrain、FuncUtils和Managers。

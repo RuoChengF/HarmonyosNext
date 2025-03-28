@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/5f15b525-a146-4218-9395-0b6ec034d63b.png)
+![](../images/img_a4529613.png)
 
 # HarmonyOS NEXT 跑马灯组件详解(三)：核心组件实现原理
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/515b84cc-bcf8-48d2-97d2-06bc62b51180.jpg)
+![](../images/img_97896a98.png)
 ## 1. MarqueeViewComponent 组件概述
 
 MarqueeViewComponent 是跑马灯组件的主要容器组件，负责整体布局和功能组织。

@@ -1,6 +1,6 @@
 # Harmonyos Next仿uv-ui 组件NumberBox 步进器组件异步操作处理
 
-![](https://files.mdnice.com/user/47561/b056ff7c-2910-4f29-aaf4-0ac4a84c419a.png)
+![](../images/img_5f0c99c5.png)
 
 ## 1. 组件介绍
 
@@ -9,7 +9,7 @@ NumberBox步进器组件在实际应用中经常需要处理异步操作，如�
 ## 2. 效果展示
 
 
-![](https://files.mdnice.com/user/47561/c534656d-77fa-41c2-8728-867070c865ed.jpg)
+![](../images/img_2934756a.png)
 
 
 ## 3. 异步操作处理

@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/4b5070f5-e9ed-461f-9f88-734d4d5cef3d.png)
+![](../images/img_537e8d9d.png)
 
 # HarmonyOS NEXT系列教程之列表交换组件手势系统实现
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/82592202-671d-445a-8eee-e36ca4d748dc.gif)
+![](../images/img_f8c8cab3.png)
 ## 1. 手势系统概述
 
 ### 1.1 支持的手势类型

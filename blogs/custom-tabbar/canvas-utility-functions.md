@@ -1,12 +1,12 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/e7866215-2919-4450-90eb-21112b7974a1.png)
+![](../images/img_ebd152fa.png)
 # HarmonyOS NEXT系列教程之 TabBar工具函数与Canvas绘制实现解析
 
 本文将详细解析TabBar中的工具函数和Canvas绘制实现，包括图片处理、尺寸计算和Canvas绘制等核心功能。
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/c2894823-0343-4de9-a551-e971b3e8daff.gif)
+![](../images/img_e3a9fa89.png)
 ## 1. 图片资源处理
 
 ```typescript

@@ -1,7 +1,7 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
  
-![](https://files.mdnice.com/user/47561/f3ddf659-5e9d-4a52-87f5-359c545b8893.png)
+![](../images/img_511c801d.png)
 
 # HarmonyOS NEXT 单元测试与自动化测试指南：构建可靠的测试体系
 

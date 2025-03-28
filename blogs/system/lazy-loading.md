@@ -1,7 +1,7 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/26e2f102-ab96-4a08-b071-dbd96e6e82a7.png)
+![](../images/img_0bd1a241.png)
 
 # Harmonyos NEXT 懒加载数据源实现解析：BasicDataSource与CommonLazyDataSourceModel详解 
 
@@ -10,7 +10,7 @@
 ### 一、核心类关系图解
 
  
-![](https://files.mdnice.com/user/47561/0ac385bd-44d4-469a-b3f9-7a0ebbf29098.png)
+![](../images/img_36226b25.png)
 
 ---
 
@@ -100,7 +100,7 @@ public clearAndPushAll(data: T[]): void {
 
 #### 1. 渲染流程
 
-![](https://files.mdnice.com/user/47561/7ff82231-14b1-47a0-96d1-2bb465621499.png)
+![](../images/img_d124b37f.png)
 
 
 #### 2. 性能优化点

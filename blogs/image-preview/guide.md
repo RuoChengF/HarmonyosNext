@@ -1,13 +1,13 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/703ec95f-ee87-4427-b901-2d68de615bc1.png)
+![](../images/img_e12e895d.png)
 
 
 # Harmonyos NEXT 图片预览组件使用指南
 ## 效果预览
 
-![](https://files.mdnice.com/user/47561/d8d2c370-46fe-4ef5-a985-5961f413f927.jpg)
+![](../images/img_bd971de3.png)
 ## 一、组件使用概述
 
 图片预览组件是一个功能完善的图片查看器，支持图片的缩放、旋转、滑动切换等功能。本文将详细介绍如何在HarmonyOS应用中集成和使用图片预览组件，帮助开发者快速实现高质量的图片预览功能。

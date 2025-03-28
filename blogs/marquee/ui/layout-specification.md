@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/5d8e1d97-95ef-416c-820c-c6756f0df0a0.png)
+![](../images/img_ed8bc0c6.png)
 
 # HarmonyOS NEXT 跑马灯组件详解(四): UI布局与样式设计
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/515b84cc-bcf8-48d2-97d2-06bc62b51180.jpg)
+![](../images/img_97896a98.png)
 ## 1. 整体布局结构
 
 ### 1.1 主容器布局

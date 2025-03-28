@@ -1,13 +1,13 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/1eb6d423-71f0-4bce-b5e4-b9e2cb19b44e.png)
+![](../images/img_cf375330.png)
 
 #  Harmonyos NEXT 图片预览组件架构设计与实现原理
 
 ## 效果预览
 
-![](https://files.mdnice.com/user/47561/e4fc23ba-5598-466e-98a8-56fc5f9cedce.jpg)
+![](../images/img_0cb0cbb1.png)
 
 ## 一、组件架构概述
 

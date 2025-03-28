@@ -1,7 +1,7 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/03254607-917a-4012-814f-f5cd01108d09.png)
+![](../images/img_e808056c.png)
 
 # HarmonyOS NEXT PicturePreviewImage组件深度剖析：高级功能扩展与性能优化策略(三)
 

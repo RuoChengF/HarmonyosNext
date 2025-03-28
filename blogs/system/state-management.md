@@ -1,7 +1,7 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/7a865bd8-4cbb-4b3b-a69b-ddc17416b441.png)
+![](../images/img_fb8700a1.png)
 
 # HarmonyOS NEXT 状态管理与响应式编程：@Observed深度解析
  

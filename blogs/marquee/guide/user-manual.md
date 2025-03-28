@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/37c755e8-bd79-46fb-95a3-dde96b4db74b.png)
+![](../images/img_88e5ac45.png)
 
 # HarmonyOS NEXT 跑马灯组件详解(八)：最佳实践与使用指南
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/515b84cc-bcf8-48d2-97d2-06bc62b51180.jpg)
+![](../images/img_97896a98.png)
 ## 1. 组件使用规范
 
 ### 1.1 基本使用

@@ -1,13 +1,13 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！ 
 
-![](https://files.mdnice.com/user/47561/5e7ced9f-e27b-4c36-8c65-d4e4470fc7a2.png)
+![](../images/img_bd4c27aa.png)
 
 
 #  Harmonyos NEXT 图片预览组件应用实践（一）：相册与社交场景
 ## 效果预览
 
-![](https://files.mdnice.com/user/47561/d8d2c370-46fe-4ef5-a985-5961f413f927.jpg)
+![](../images/img_bd971de3.png)
 ## 一、应用场景概述
 
 图片预览组件作为一个功能完善的图片查看器，可以应用于多种场景。本文将重点介绍相册和社交媒体场景下的最佳实践。

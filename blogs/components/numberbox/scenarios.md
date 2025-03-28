@@ -1,6 +1,6 @@
 # HarmonyOS NEXT NumberBox 步进器组件应用场景与基础实践
 
-![](https://files.mdnice.com/user/47561/b8cce08f-64f8-445d-a11c-b16c45913910.png)
+![](../images/img_c96be37b.png)
 
 ## 一、组件概述
 

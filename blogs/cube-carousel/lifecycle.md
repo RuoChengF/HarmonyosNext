@@ -1,13 +1,13 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
 
-![](https://files.mdnice.com/user/47561/2c513b68-bfa0-4a62-8ee3-3bdc17012735.png)
+![](../images/img_3ee4335f.png)
 
 
 # HarmonyOS NEXT系列教程之3D立方体旋转轮播案例讲解之生命周期与初始化
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/1206c9f5-ffbc-407e-be02-ed1889ad8419.gif)
+![](../images/img_bd851d39.png)
 
 ## 1. 组件生命周期
 

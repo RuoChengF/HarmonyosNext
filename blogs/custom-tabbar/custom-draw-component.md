@@ -1,12 +1,12 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/e7866215-2919-4450-90eb-21112b7974a1.png)
+![](../images/img_ebd152fa.png)
 # HarmonyOS NEXT系列教程之 CustomDrawTabbarComponent组件实现解析
 
 本文将详细解析CustomDrawTabbarComponent组件的实现，这是一个自定义的TabBar容器组件，展示了如何集成和使用TabsConcaveCircle等自定义导航组件。
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/c2894823-0343-4de9-a551-e971b3e8daff.gif)
+![](../images/img_e3a9fa89.png)
 ## 1. 组件概述
 
 ```typescript

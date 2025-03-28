@@ -1,7 +1,7 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/7ef4072c-e717-4597-a31e-5b8eaae285d1.png)
+![](../images/img_fb03dd9d.png)
 
 # HarmonyOS NEXT 网络请求与数据处理：构建可靠的数据层
  

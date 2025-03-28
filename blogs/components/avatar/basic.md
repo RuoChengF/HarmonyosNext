@@ -1,7 +1,7 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/e0acc3bb-c874-4e70-bb68-65bc5922cccd.png)
+![](../images/img_a490751d.png)
 
 # 【HarmonyOS NEXT】 仿uv-ui组件开发之Avatar头像组件开发教程（一）
 ## 第一篇：Avatar 组件基础概念与设计
@@ -10,7 +10,7 @@
 
 Avatar 组件是一个用于展示用户头像的基础 UI 组件，支持图片、文字和图标三种显示模式，并提供了丰富的自定义选项。本教程将详细介绍 Avatar 组件的设计思路和实现方法。
 
-![](https://files.mdnice.com/user/47561/3d9094c4-6345-4042-a7d3-1122928e2194.png)
+![](../images/img_9b4c42d4.png)
 
 ### 2. 接口设计
 

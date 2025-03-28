@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/4206b79e-a950-403e-810a-61b2d474e6dd.png)
+![](../images/img_5c8dc530.png)
 
 # HarmonyOS NEXT  跑马灯组件详解(一): 组件概述与架构设计
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/515b84cc-bcf8-48d2-97d2-06bc62b51180.jpg)
+![](../images/img_97896a98.png)
 ## 1. 组件简介
 
 跑马灯(Marquee)组件是一个用于展示滚动文本的UI组件，主要用于处理文本内容超出显示区域时的展示问题。当文本内容过长时，组件会自动实现文本的循环滚动效果，并在每次循环结束后暂停一定时间。

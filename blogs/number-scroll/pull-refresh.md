@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/2d9b489f-f3dc-479d-8574-8f838637bcff.png)
+![](../images/img_5cf5fbb9.png)
 
 # HarmonyOS  NEXT 数字滚动示例详解(二)：下拉刷新实现
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/3c439d97-e02c-4488-be35-fd0735537c95.gif)
+![](../images/img_675b6b41.png)
 ## 1. 下拉刷新概述
 
 下拉刷新功能通过Refresh组件实现，提供了良好的用户交互体验。

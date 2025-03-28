@@ -1,13 +1,13 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/f1be41c2-774d-4e4c-a91b-e0210fe7c881.png)
+![](../images/img_85e576cd.png)
 
 # HarmonyOS NEXT Layout布局组件系统详解（九）：嵌套布局实现
 
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/30e8b194-59bf-4a70-9cac-2357c78b8007.jpg)
+![](../images/img_f9c961ee.png)
 
 ## 1. 嵌套布局概述
 

@@ -2,13 +2,13 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
 
-![](https://files.mdnice.com/user/47561/ef3fc617-d377-4549-8f51-ec8ac3173108.png)
+![](../images/img_93b25f08.png)
 
 # HarmonyOS NEXT Layout布局组件系统详解（六）：偏移功能实现
 
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/30e8b194-59bf-4a70-9cac-2357c78b8007.jpg)
+![](../images/img_f9c961ee.png)
 
 ## 1. 偏移功能概述
 

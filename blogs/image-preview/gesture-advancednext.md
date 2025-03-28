@@ -1,13 +1,13 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/ca9ad39d-4d71-4417-add3-ec5a3dcf213a.png)
+![](../images/img_ca52c1aa.png)
 
 
 # Harmonyos NEXT 图片预览组件之手势处理实现（三）
 ## 效果预览
 
-![](https://files.mdnice.com/user/47561/d8d2c370-46fe-4ef5-a985-5961f413f927.jpg)
+![](../images/img_bd971de3.png)
 ## 一、双击缩放手势实现
 
 在前两篇文章中，我们介绍了图片预览组件的单指拖动、双指缩放和双指旋转手势实现。本文将继续介绍双击缩放手势的实现细节，以及手势之间的协同工作机制。

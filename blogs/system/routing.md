@@ -1,7 +1,7 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/f5ce73be-9ff0-4edc-ae5a-79610212604c.png)
+![](../images/img_dc63209e.png)
 
 # HarmonyOS NEXT 路由导航与页面管理：构建清晰的应用架构
  

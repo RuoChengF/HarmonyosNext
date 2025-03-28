@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/fda81cea-e79b-485a-95fd-e3d86715fa47.png)
+![](../images/img_5d13665f.png)
 
 # HarmonyOS NEXT  跑马灯组件详解(三): 数据结构与状态管理
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/515b84cc-bcf8-48d2-97d2-06bc62b51180.jpg)
+![](../images/img_97896a98.png)
 ## 1. 数据类型定义
 
 ### 1.1 行程数据类型

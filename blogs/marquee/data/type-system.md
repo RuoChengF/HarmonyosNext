@@ -1,11 +1,11 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/b1ff4b28-98f6-477c-b870-ec8d17df4697.png)
+![](../images/img_b084eda4.png)
 
 # HarmonyOS NEXT 跑马灯组件数据类型详解：理解数据结构
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/515b84cc-bcf8-48d2-97d2-06bc62b51180.jpg)
+![](../images/img_97896a98.png)
 ## 1. 数据类型概述
 
 在跑马灯组件中，定义了三个主要的数据类型：

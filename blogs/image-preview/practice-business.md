@@ -1,12 +1,12 @@
  
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/7ee3c4d0-a8a4-4c9b-9e56-50b06758fecf.png)
+![](../images/img_6f49328b.png)
 
 #  Harmonyos NEXT图片预览组件应用实践（二）：电商、内容与办公场景
 ## 效果预览
 
-![](https://files.mdnice.com/user/47561/d8d2c370-46fe-4ef5-a985-5961f413f927.jpg)
+![](../images/img_bd971de3.png)
 ## 一、电商应用最佳实践
 
 ### 1. 功能需求

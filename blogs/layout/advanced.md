@@ -1,12 +1,12 @@
 > 温馨提示：本篇博客的详细代码已发布到 [git](https://gitcode.com/nutpi/HarmonyosNext) : https://gitcode.com/nutpi/HarmonyosNext 可以下载运行哦！
 
-![](https://files.mdnice.com/user/47561/c1ea8a11-ad73-490a-ae97-807eb7c00f5b.png)
+![](../images/img_ce795d50.png)
 
 # HarmonyOS NEXT Layout 布局组件系统详解（十二）：高级应用案例与性能优化
 
 ## 效果演示
 
-![](https://files.mdnice.com/user/47561/30e8b194-59bf-4a70-9cac-2357c78b8007.jpg)
+![](../images/img_f9c961ee.png)
 
 ## 1. 高级应用案例概述
 
